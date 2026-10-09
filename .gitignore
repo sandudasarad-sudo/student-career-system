@@ -1,0 +1,19 @@
+﻿# Environment files and secrets
+**/.env
+**/.env.*
+!.env.example
+
+# Node.js
+**/node_modules/
+
+# Flutter generated files
+**/.dart_tool/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/local.properties
+**/ephemeral/
+**/Generated.xcconfig
+
+# IDE files
+**/.idea/
